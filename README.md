@@ -16,7 +16,7 @@
 - 📚Always learning new technologies and improving my skills.
 - 🎯Currently looking for opportunities as a Full Stack Developer.
 - 🤝Open to learning, collaboration, and exciting projects.
-<h3 align="left">Languages and Tools:</h3>
+
 <h1 align="center">Connect with me:</h1>
 <p align="center">
    <a href="https://auth.geeksforgeeks.org/user/sowndharya18" target="blank">
@@ -32,8 +32,8 @@
  
   </a>
 </p>
-## Languages and Tools:
 
+## Languages and Tools:
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" title="Java"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" title="React"/></a></div> | <div align="center"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="50" title="IntelliJ IDEA"/></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></div> |
