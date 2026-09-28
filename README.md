@@ -17,7 +17,19 @@
 - 🎯Currently looking for opportunities as a Full Stack Developer.
 - 🤝Open to learning, collaboration, and exciting projects.
 <h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sowndharya18b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
 
+
+  <a href="https://leetcode.com/sowndharya18/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sowndharya18" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+  </a>
+</p>
 ## Languages and Tools:
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) |
